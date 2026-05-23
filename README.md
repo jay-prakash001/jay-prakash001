@@ -1,17 +1,49 @@
-# Hi there, I'm Jay Prakash! 👋
+# Hey there, I'm Jay Prakash 👋
 
-I'm an enthusiastic Android developer with a passion for building innovative mobile applications. With a solid foundation in Kotlin, Jetpack Compose, and Firebase, I'm always excited to learn new technologies and take on challenging projects.
+### Android Developer | Kotlin Enthusiast | Jetpack Compose Learner
 
-  - 👀 I’m interested in Android development and love to explore new technologies and features related to it.
-  -  🌱 I’m currently building a weather app using the OpenWeather API and Jetpack Compose.
-  -  📫 How to reach me: your-
-  --  iamjayprakashdewangan2004@gmail.com
-  --  https://www.linkedin.com/in/jay-p-702638269/
-  -  https://x.com/iamjayprakash04
-      
-  
+I'm a passionate Android developer who loves building modern and user-friendly mobile applications.  
+I enjoy exploring new technologies, improving UI/UX, and creating apps that solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 📱 Focused on Android App Development
+- 💡 Interested in modern Android technologies and architecture
+- 🔥 Exploring Firebase, Clean Architecture, and modern Android development practices
+- 🎯 Goal: To become a highly skilled Android Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Tools
+- Kotlin
+- Jetpack Compose
+- Firebase
+- Android Studio
+- Git & GitHub
+- REST APIs
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **iamjayprakashdewangan2004@gmail.com**
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/jay-p-702638269/
+- 🐦 X (Twitter):  
+  https://x.com/iamjayprakash04
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into Android apps and continuously learning new technologies 🚀
+
+---
 
 <!---
-jay-prakash001/jay-prakash001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+jay-prakash001/jay-prakash001 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
